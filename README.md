@@ -7,11 +7,9 @@
 
 ## REQUIREMENTS
 - ArduinoBearSSL : https://github.com/arduino-libraries/ArduinoBearSSL.git
-An arduino lib for hasing with HAMC SHA256
-<<<<<<< HEAD
 
 ## #Example use case:
-```Arduino
+```cpp
 // include the Arduino-HMAC-SHA256.h
 #include <Arduino-HMAC-SHA256.h>
 
