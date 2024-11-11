@@ -1,6 +1,6 @@
 #include <bearssl/bearssl.h>  // BearSSL library for HMAC functions
 
-class HAMC_SHA256 {
+class HMAC_SHA256 {
     public: 
         /// @brief get hmac hash of a message and secret key using HMAC-SHA-256 algorithm 
         /// @param message message to be used in hashing
