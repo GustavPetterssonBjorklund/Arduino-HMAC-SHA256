@@ -8,6 +8,7 @@
 ## REQUIREMENTS
 - ArduinoBearSSL : https://github.com/arduino-libraries/ArduinoBearSSL.git
 An arduino lib for hasing with HAMC SHA256
+<<<<<<< HEAD
 
 ## #Example use case:
 ```Arduino
@@ -31,3 +32,4 @@ void loop() {
   // nothing to loop
 }
 ```
+
