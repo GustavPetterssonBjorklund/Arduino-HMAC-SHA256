@@ -8,7 +8,7 @@
 ## REQUIREMENTS
 - ArduinoBearSSL : https://github.com/arduino-libraries/ArduinoBearSSL.git
 
-## #Example use case:
+## Example use case:
 ```cpp
 // include the Arduino-HMAC-SHA256.h
 #include <Arduino-HMAC-SHA256.h>
